@@ -11,3 +11,7 @@ body {
   justify-content: center;
   padding: 80px;
 }
+
+body[data-theme='dark'] {
+  filter: invert(1) hue-rotate(180deg)
+}
