@@ -15,3 +15,7 @@ body {
 body[data-theme='dark'] {
   filter: invert(1) hue-rotate(180deg)
 }
+
+label {
+  color: blue;
+}
