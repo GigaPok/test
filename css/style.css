@@ -19,3 +19,8 @@ body[data-theme='dark'] {
 label {
   color: blue;
 }
+
+svg {
+  width: 84px;
+  height: 32px;
+}
